@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.441c5489.css",
-    "main.js": "/static/js/main.f434a930.js",
+    "main.js": "/static/js/main.2db1cce7.js",
     "static/js/787.966a8dd4.chunk.js": "/static/js/787.966a8dd4.chunk.js",
     "static/media/hama_about.png": "/static/media/hama_about.7b87a31dd05049e7d32d.png",
     "static/media/hama_home.png": "/static/media/hama_home.2d6a2f296550733da58e.png",
@@ -12,21 +12,15 @@
     "static/media/uni.png": "/static/media/uni.0b584d31e456999699dc.png",
     "static/media/cm.png": "/static/media/cm.a5836f7f4ddd4881534c.png",
     "static/media/discord.webp": "/static/media/discord.25443946ebd48e9622a3.webp",
-    "static/media/coingeckoLogo.webp": "/static/media/coingeckoLogo.d7881502acbe0b9e8653.webp",
     "static/media/twitter.webp": "/static/media/twitter.d0ffba68d59c15775282.webp",
     "static/media/tg.webp": "/static/media/tg.fb8737990e1e82b6774d.webp",
-    "static/media/coinmpLogo.webp": "/static/media/coinmpLogo.4f3af83de219754642d6.webp",
-    "static/media/dextools.webp": "/static/media/dextools.d29dbeeacb74aaad2cfb.webp",
-    "static/media/gate_io-logo.webp": "/static/media/gate_io-logo.bd361ff848169d69c2f8.webp",
-    "static/media/huobi_logo.webp": "/static/media/huobi_logo.4694f1d3373888877b00.webp",
-    "static/media/okxLogo.webp": "/static/media/okxLogo.79626f74152aa30ab142.webp",
     "index.html": "/index.html",
     "main.441c5489.css.map": "/static/css/main.441c5489.css.map",
-    "main.f434a930.js.map": "/static/js/main.f434a930.js.map",
+    "main.2db1cce7.js.map": "/static/js/main.2db1cce7.js.map",
     "787.966a8dd4.chunk.js.map": "/static/js/787.966a8dd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.441c5489.css",
-    "static/js/main.f434a930.js"
+    "static/js/main.2db1cce7.js"
   ]
 }
